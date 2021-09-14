@@ -77,67 +77,7 @@ This repo if for who want to be a react developer
  - [Scheduling: setTimeout and setInterval](https://javascript.info/settimeout-setinterval)
  - [Arrow functions revisited](https://javascript.info/arrow-functions)
 
-### 🔰 Main Concepts
-- [Hello World](https://reactjs.org/docs/hello-world.html)
-- [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
-- [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
-- [Components and Props](https://reactjs.org/docs/components-and-props.html)
-- [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
-- [ Handling Events](https://reactjs.org/docs/handling-events.html)
-- [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
-- [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
-- [Forms](https://reactjs.org/docs/forms.html)
-- [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
-- [Composition vs Inheritance](https://reactjs.org/docs/lifting-state-up.html)
-- [Thinking In React](https://reactjs.org/docs/thinking-in-react.html)
 
-### 🔰 ADVANCED GUIDES
-- [Accessibility](https://reactjs.org/docs/accessibility.html)
-- [Code-Splitting](https://reactjs.org/docs/code-splitting.html)
-- [Context](https://reactjs.org/docs/context.html)
-- [Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
-- [Forwarding Refs](https://reactjs.org/docs/forwarding-refs.html)
-- [Fragments](https://reactjs.org/docs/fragments.html)
-- [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
-- [Integrating with Other Libraries](https://reactjs.org/docs/integrating-with-other-libraries.html)
-- [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
-- [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
-- [Portals](https://reactjs.org/docs/portals.html)
-- [Profiler](https://reactjs.org/docs/profiler.html)
-- [React Without ES6](https://reactjs.org/docs/react-without-es6.html)
-- [React Without JSX](https://reactjs.org/docs/react-without-jsx.html)
-- [Reconciliation](https://reactjs.org/docs/reconciliation.html)
-- [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
-- [Render Props](https://reactjs.org/docs/render-props.html)
-- [Static Type Checking](https://reactjs.org/docs/static-type-checking.html)
-- [Strict Mode](https://reactjs.org/docs/strict-mode.html)
-- [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
-- [Uncontrolled Components](https://reactjs.org/docs/uncontrolled-components.html)
-- [Web Components](https://reactjs.org/docs/web-components.html)
-- []
-  
-
- ### 🔰 API REFERENCE
-- [React](https://reactjs.org/docs/react-api.html)
-- [React.Component](https://reactjs.org/docs/react-component.html)
-- [ReactDOM](https://reactjs.org/docs/react-dom.html)
-- [ReactDOMServer](https://reactjs.org/docs/react-dom-server.html)
-- [DOM Elements](https://reactjs.org/docs/dom-elements.html)
-- [SyntheticEvent](https://reactjs.org/docs/events.html)
-- [Test Utilities](https://reactjs.org/docs/test-utils.html)
-- [Test Renderer](https://reactjs.org/docs/test-renderer.html)
-- [JS Environment Requirements](https://reactjs.org/docs/javascript-environment-requirements.html)
-- [Glossaryhttps://reactjs.org/docs/glossary.html]
-
-### 🔰 HOOKS
-- [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
-- [Hooks at a Glance](https://reactjs.org/docs/hooks-overview.html)
-- [Using the State Hook](https://reactjs.org/docs/hooks-state.html)
-- [Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
-- [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
-- [Building Your Own Hooks](https://reactjs.org/docs/hooks-custom.html)
-- [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
-- [ Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
 </details>
 
 <details>
@@ -211,4 +151,73 @@ This repo if for who want to be a react developer
 ### 🔰 Introduction to Events
 
 
+</details>
+
+<details>
+
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;React JS</a>    
+</summary>
+
+### 🔰 Main Concepts
+- [Hello World](https://reactjs.org/docs/hello-world.html)
+- [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+- [Components and Props](https://reactjs.org/docs/components-and-props.html)
+- [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+- [ Handling Events](https://reactjs.org/docs/handling-events.html)
+- [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+- [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
+- [Forms](https://reactjs.org/docs/forms.html)
+- [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+- [Composition vs Inheritance](https://reactjs.org/docs/lifting-state-up.html)
+- [Thinking In React](https://reactjs.org/docs/thinking-in-react.html)
+
+### 🔰 ADVANCED GUIDES
+- [Accessibility](https://reactjs.org/docs/accessibility.html)
+- [Code-Splitting](https://reactjs.org/docs/code-splitting.html)
+- [Context](https://reactjs.org/docs/context.html)
+- [Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
+- [Forwarding Refs](https://reactjs.org/docs/forwarding-refs.html)
+- [Fragments](https://reactjs.org/docs/fragments.html)
+- [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
+- [Integrating with Other Libraries](https://reactjs.org/docs/integrating-with-other-libraries.html)
+- [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
+- [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
+- [Portals](https://reactjs.org/docs/portals.html)
+- [Profiler](https://reactjs.org/docs/profiler.html)
+- [React Without ES6](https://reactjs.org/docs/react-without-es6.html)
+- [React Without JSX](https://reactjs.org/docs/react-without-jsx.html)
+- [Reconciliation](https://reactjs.org/docs/reconciliation.html)
+- [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
+- [Render Props](https://reactjs.org/docs/render-props.html)
+- [Static Type Checking](https://reactjs.org/docs/static-type-checking.html)
+- [Strict Mode](https://reactjs.org/docs/strict-mode.html)
+- [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+- [Uncontrolled Components](https://reactjs.org/docs/uncontrolled-components.html)
+- [Web Components](https://reactjs.org/docs/web-components.html)
+- []
+  
+
+ ### 🔰 API REFERENCE
+- [React](https://reactjs.org/docs/react-api.html)
+- [React.Component](https://reactjs.org/docs/react-component.html)
+- [ReactDOM](https://reactjs.org/docs/react-dom.html)
+- [ReactDOMServer](https://reactjs.org/docs/react-dom-server.html)
+- [DOM Elements](https://reactjs.org/docs/dom-elements.html)
+- [SyntheticEvent](https://reactjs.org/docs/events.html)
+- [Test Utilities](https://reactjs.org/docs/test-utils.html)
+- [Test Renderer](https://reactjs.org/docs/test-renderer.html)
+- [JS Environment Requirements](https://reactjs.org/docs/javascript-environment-requirements.html)
+- [Glossaryhttps://reactjs.org/docs/glossary.html]
+
+### 🔰 HOOKS
+- [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Hooks at a Glance](https://reactjs.org/docs/hooks-overview.html)
+- [Using the State Hook](https://reactjs.org/docs/hooks-state.html)
+- [Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
+- [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
+- [Building Your Own Hooks](https://reactjs.org/docs/hooks-custom.html)
+- [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
+- [ Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
 </details>
